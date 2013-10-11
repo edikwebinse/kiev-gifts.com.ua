@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Lib_Js_Enterprise</name>
+    <version>1.12.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.magentocommerce.com/license/enterprise-edition">Magento Enterprise Edition</license>
+    <channel>enterprise</channel>
+    <extends/>
+    <summary>Javascript Libraries for Magento Enterprise</summary>
+    <description>Javascript Libraries for Magento Enterprise</description>
+    <notes>1.12.0.0</notes>
+    <authors><author><name>Magento Enterprise Team</name><user>core</user><email>core@magentocommerce.com</email></author></authors>
+    <date>2012-04-19</date>
+    <time>14:50:19</time>
+    <contents><target name="mageweb"><dir name="js"><dir name="enterprise"><dir name="adminhtml"><file name="addbysku.js" hash="50e2979675af2cadea730e2334e1f2de"/><file name="catalogpermissions-config.js" hash="29e85d570cdd5833389b34d035f42a51"/><file name="catalogpermissions.js" hash="ea72c9462e654cd17a8adf6faace6447"/><file name="checkout.js" hash="0e57969f6f808f9f7937c9bc1946b23c"/><file name="cms.js" hash="b1efcf0caef51581467747c1301a7eb4"/><file name="rma.js" hash="d20fd440f0b28c1ab38f476047610fef"/><file name="staging.js" hash="a53be68d8505f08f97faf8379a9c43f6"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
