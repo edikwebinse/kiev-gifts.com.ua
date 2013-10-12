@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-a:4:{s:4:"hash";i:-1829542197;s:5:"mtime";i:1381572602;s:6:"expire";i:1381579802;s:4:"tags";a:1:{i:0;s:20:"1ac_DB_PDO_MYSQL_DDL";}}
-=======
-a:4:{s:4:"hash";i:-1829542197;s:5:"mtime";i:1381572147;s:6:"expire";i:1381579347;s:4:"tags";a:1:{i:0;s:20:"1ac_DB_PDO_MYSQL_DDL";}}
->>>>>>> 340b08525689944dd30eb5d82966b3691149501c
+a:4:{s:4:"hash";i:-1829542197;s:5:"mtime";i:1381573781;s:6:"expire";i:1381580981;s:4:"tags";a:1:{i:0;s:20:"1ac_DB_PDO_MYSQL_DDL";}}
