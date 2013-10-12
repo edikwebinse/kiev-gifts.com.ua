@@ -1,0 +1,9 @@
+a:5:{i:0;s:227:"Error in file: "C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Customer\sql\customer_setup\install-1.6.0.0.php" - SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'customer_entity' already exists";i:1;s:1124:"#0 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Core\Model\Resource\Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Core\Model\Resource\Setup.php(421): Mage_Core_Model_Resource_Setup->_modifyResourceDb('install', '', '1.6.2.0.1')
+#2 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Core\Model\Resource\Setup.php(327): Mage_Core_Model_Resource_Setup->_installResourceDb('1.6.2.0.1')
+#3 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Core\Model\Resource\Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Core\Model\App.php(417): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\code\core\Mage\Core\Model\App.php(343): Mage_Core_Model_App->_initModules()
+#6 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\app\Mage.php(683): Mage_Core_Model_App->run(Array)
+#7 C:\xampp\htdocs\kiev-gifts.com.ua\public_html\index.php(87): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:1:"/";s:11:"script_name";s:10:"/index.php";s:4:"skin";s:7:"default";}
